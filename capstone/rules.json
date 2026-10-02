@@ -1,0 +1,25 @@
+{
+  "viral_licenses": [
+    "GPL-2.0",
+    "GPL-3.0",
+    "AGPL-3.0",
+    "SSPL",
+    "EUPL"
+  ],
+  "incompatible_pairs": [
+    ["Apache-2.0", "GPL-2.0"],
+    ["Apache-1.1", "GPL-2.0"],
+    ["Apache-1.1", "GPL-3.0"],
+    ["BSD-4-Clause", "GPL-2.0"],
+    ["BSD-4-Clause", "GPL-3.0"],
+    ["CDDL-1.0", "GPL-2.0"],
+    ["CDDL-1.0", "GPL-3.0"],
+    ["CDDL-1.1", "GPL-2.0"],
+    ["CDDL-1.1", "GPL-3.0"],
+    ["EPL-1.0", "GPL-2.0"],
+    ["EPL-1.0", "GPL-3.0"],
+    ["EPL-2.0", "GPL-2.0"],
+    ["MPL-1.1", "GPL-2.0"],
+    ["MPL-1.1", "GPL-3.0"]
+  ]
+}

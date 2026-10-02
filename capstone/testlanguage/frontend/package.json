@@ -1,0 +1,14 @@
+{
+  "name": "sample-frontend",
+  "version": "1.0.0",
+  "description": "테스트용 package.json - dependencies 추출 확인",
+  "dependencies": {
+    "react": "^19.0.0",
+    "axios": "^1.6.0",
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0",
+    "eslint": "^8.0.0"
+  }
+}
